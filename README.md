@@ -1,5 +1,9 @@
 ## Welcome to Lietoumai Pages
 
+人都是被逼的
+
+gitbook实在是太鸟了
+
 这个博客系统 对我而言是个挑战
 
 但是我应该可以完成的
