@@ -51,3 +51,13 @@
 Wechat：lietoumai
 
 E-mail: lietoumai#qq.com
+
+### 关于我
+
+近10年顾问生涯，专注服务于后台开发人员，接触过的语言包括但不限于：
+
+Delphi/C++/Erlang/Java/Php/Ruby/Go/Rust/Elixir
+
+国内最早一批招募go程序员的顾问（14年）
+
+学过一点Python 
